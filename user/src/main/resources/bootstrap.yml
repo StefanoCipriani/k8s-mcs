@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: kbs-mcs-user
